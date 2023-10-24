@@ -6,8 +6,8 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 
 **Data visualization**
 
-Used boxplot
-Correlation matrix
+- Used boxplot
+- Correlation matrix
 
 **LSTM Model**
 
