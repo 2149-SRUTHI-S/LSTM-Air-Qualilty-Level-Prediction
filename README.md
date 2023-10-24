@@ -11,5 +11,5 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 
 **LSTM Model**
 
-3 layer LSTM architecture with 50 neuron followed by 1 nueron LSTM
+- 3 layer LSTM architecture with 50 neuron followed by 1 nueron LSTM
 Dropout at 20% after every layer
